@@ -1,8 +1,8 @@
 # Horiseon
 
-Refractor of existing website to improve accessability and optimizition. 
+Refracting of existing website to improve accessability and optimizition. 
 
- - [Link to Horiseon index.html](./index.html)
+ - [Link to Horiseon index.html](https://coryslsbry.github.io/Horiseon-accessablity-optimization-July2021/)
 
 
 ## Table of Contents
@@ -24,3 +24,4 @@ Starting project 7/24/2021 ofr review and improvements. Initial review found mis
 
 ## License
 
+.....
