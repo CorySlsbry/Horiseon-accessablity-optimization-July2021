@@ -2,16 +2,19 @@
 
 Refractor of existing website to improve accessability and optimizition. 
 
+ - [Link to Horiseon index.html](./index.html)
+
 
 ## Table of Contents
 
-- [Notes](#Notes)
+- [Notes](#notes)
+- [Maintainer](#maintainer)
 - [License](#license)
 
 
 ## Notes
 
-Starting project 7/24/2021 ofr review and improvements.
+Starting project 7/24/2021 ofr review and improvements. Initial review found missing "alt" tags, 1 link broken, and proper title missing. Added alt tags, fixed "Search Engine Optimization" link, and added proper page title. Modified CSS and labeled sections.
 
 
 ## Maintainer
